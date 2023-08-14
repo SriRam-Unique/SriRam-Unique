@@ -1,4 +1,3 @@
-# Hi 👋
 # 💫 About Me:
 🔭 I’m exploring Data Analytics<br>🌱 I’m currently learning Machine Learning<br>💬 You can ask me about python & sql
 
