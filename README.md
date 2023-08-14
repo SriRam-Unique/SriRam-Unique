@@ -1,5 +1,6 @@
+# Hi 👋
 # 💫 About Me:
-🔭 I’m currently exploring Data Analytics<br>🌱 I’m currently learning Machine Learning<br>💬 You can ask me about python & sql
+🔭 I’m exploring Data Analytics<br>🌱 I’m currently learning Machine Learning<br>💬 You can ask me about python & sql
 
 
 # 💻 Tech Stack:
